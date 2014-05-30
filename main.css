@@ -1,0 +1,101 @@
+#background {
+	background-color: beige;
+}
+#header {
+	background-color: teal;
+	height: 100px;
+}
+#title {
+	font-size: 50px;
+}
+.contact {
+	float: right;
+	list-style-type: none;
+	font-size: 12px;
+	position: relative;
+	left: -20px;
+	height: 10px;
+	padding: 2px;
+	margin: -106px 0px;
+
+}
+.contact li {
+	padding: -10px;
+	margin: -1px;
+}
+#main_container {
+	height: 450px;
+	background-color: beige;
+}
+.record {
+	width: 480px;
+	height: 300px;
+}
+.uni {
+	float: right;
+	position: relative;
+	top: 14px;
+	height:135px;
+}
+.arrow {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: 25px;
+}
+#main_container ul {
+	list-style-type: none;
+	float: right;
+	position: relative;
+	left: -50px;
+	font-size:18px;
+}
+.great-deal {	
+	position: relative;
+	right: -550px;
+	top: -98px;
+}
+#footer {
+	position: relative;
+	top: 53px;
+}
+#footer img:nth-child(1) {
+	height: 130px;
+}
+#footer img:nth-child(2) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(3) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(4) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(5) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(6) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(7) {
+	height: 130px;
+	margin-left: -4px;
+}
+#footer img:nth-child(8) {
+	height: 130px;
+	margin-left: -4px;
+	width: 125px;
+}
+
+
+
+
+
+
+
+
